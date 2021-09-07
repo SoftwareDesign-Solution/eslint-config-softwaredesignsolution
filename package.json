@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-softwaredesignsolution",
+  "version": "1.0.0",
+  "description": "eslint-config-softwaredesignsolution contains a strict ESLint configuration for ES2015+ and TypeScript.",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareDesign-Solution/eslint-config-softwaredesignsolution.git"
+  },
+  "author": "Manuel Kübler <mail@softwaredesign-solution.de> (https://www.softwaredesign-solution.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftwareDesign-Solution/eslint-config-softwaredesignsolution/issues"
+  },
+  "homepage": "https://github.com/SoftwareDesign-Solution/eslint-config-softwaredesignsolution#readme"
+}
